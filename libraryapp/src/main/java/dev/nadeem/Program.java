@@ -45,7 +45,7 @@ public class Program {
                     break;
             }
 
-            library.advanceDay();
+            library.advanceDay(); 
         }
     }
 
