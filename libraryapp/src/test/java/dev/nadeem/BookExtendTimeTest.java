@@ -34,5 +34,6 @@ public class BookExtendTimeTest {
 
     // Assert: should reset to 0
     assertEquals(0, book.getDaysBorrowed());
+    
     }
 }
